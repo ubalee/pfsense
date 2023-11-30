@@ -2,9 +2,59 @@
 123.242.131.113
 www.gprocurement.go.th #จัดซื้อจัดจ้าง
 ddc.moph.go.th #งานระบาด
+ucsearch.nhso.go.th
+www.cgd.go.th  #กรมบัญชีกลาง
+www.thaicarecloud.org #ฐานข้อมูลสุขภาพ และบริการทางการแพทย์ อิเล็คทรอนิกส์
+www.healthplatform.krungthai.com #ลงทะเบียนวัคซีน
+www.nhso.go.th
+portal.nhso.go.th
+203.157.103.243 #ลงทะเบียนวัคซีน covid 19
+ucsearch.nhso.go.th #1.179.193.157
+61.47.40.30 #บริหารความเสี่ยง
+erm.nhso.go.th
+cvp1.moph.go.th
+msn.hdc.moph.go.th #HDC แม่ฮ่องสอน
+erm.nhso.go.th #ลงทะเบียนหลักประกันสุขภาพ
+1.10.141.27 #สคร. เชียงใหม่
+op.nhso.go.th #ส่งข้อมูล 43 แฟ้ม
+co-lab2.moph.go.th #Lab Information System
+finance.moph.go.th #กองบริหารการคลัง
+dmis.nhso.go.th #NAP2
+ae.moph.go.th
+ict-pher.moph.go.th
+ucws.nhso.go.th
+seamlessfordmis.nhso.go.th #ติดตามข้อมูลจ่ายเฉพาะโรค
+216.58.199.238 #RE Prep โปรแกรมการการเงิน E-Filing
+203.113.77.19 #RE Prep โปรแกรมการการเงิน E-Filing
+203.157.193.22
+api-mhso.moph.go.th #API SSJ
+hisgateway.moph.go.th #Gateway MOPH
+49.229.87.103 #API R1
+203.107.190.191 #audit.nhso.go.th
+164.115.20.61 #hscs.ha.or.th สำรวจวัฒนธรรมความปลอดภัย
+epidemcenter.moph.go.th #ระบาดวิทยา
+doeportal.moph.go.th
+web-mhso.moph.go.th #สริปเงินเดือน
+r36.ddc.moph.go.th #รายงานผู้สัมผัสโรคพิษสุนัขบ้า
+mhso.moph.go.th #สสจ.แม่ฮ่องสอน
+phr1.moph.go.th #ส่งข้อมูล PHR
+203.150.143.5 #eKYC PHRTransferAgent
+203.151.88.217 #eKYC Laser Code
+209.15.97.215 #PHR
+61.19.251.32 #HOsXP Cloud
+203.151.254.100 #HOsXP XE4?
+164.115.27.90 #กองทุนประกันสุขภาพแรงงานต่างด้าว
 
 ## Network ip ##
 203.157.69.0/24
 203.147.36.0/24
 122.154.12.0/24
 61.19.251.0/24
+103.55.59.38/24 #wa1.sso.go.th สำนักงานประกันสังคม
+203.157.193.20/24 #sso mhs
+103.51.64.1/24 #xx.rd.go.th  สรรพากร
+1.179.193.0/24 #ucapps1.nhso.go.th , xxx.nhso.go.th
+203.157.100.0/24 #API HIS Gateway
+203.150.164.0/24 #สปสช
+103.160.140.0/24 #สปสช
+103.160.141.0/24 #สปสช

@@ -1,5 +1,7 @@
 ## Single ip ##
 123.242.131.113
+www.gprocurement.go.th #จัดซื้อจัดจ้าง
+ddc.moph.go.th #งานระบาด
 
 ## Network ip ##
 203.157.69.0/24
